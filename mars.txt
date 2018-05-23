@@ -1,2 +1,4 @@
 This is the mars.txt
 
+
+There are now 3 lines on this document
